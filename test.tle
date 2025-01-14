@@ -1,0 +1,3 @@
+printc('hello world!')
+ded:a=1:1
+printc(a)
