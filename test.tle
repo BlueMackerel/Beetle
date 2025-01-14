@@ -1,3 +1,4 @@
 printc('hello world!')
-ded:a=1:1
+ded:d=1:1
+de:a=set('hello')
 printc(a)
