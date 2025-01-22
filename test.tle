@@ -1,3 +1,7 @@
-printc('hello world!')
-ded:a=1:2
-printc(a)
+printc('hello')
+des:a='hello'
+dei:b=1
+del:c=1,2,1,2
+put {c} to {b}:{
+    printc({b});
+}
